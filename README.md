@@ -1,4 +1,4 @@
-# preAdmLab
-Este é o projeto para a Pré- Admissão da Turma 05 da Laboratória SP/BR
+Jogo de perguntas e respostas sobre a Covid 19. A aplicação foi desenvolvida durante a pré-admissão no Bootcamp de Desenvolvimento Front-End, promovido pela Laboratória -BR.
 
+Confira a aplicação neste link:
 https://alencartha.github.io/preAdmLab/
